@@ -1,4 +1,4 @@
 Name: Gabriela
 Age: 25
 Favorite color: Yellow
-Favorite movie: Spirited away
+Favorite movie: Bee Movie
